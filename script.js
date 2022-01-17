@@ -22,8 +22,8 @@
 //let idade = 18;
 //let cond = true;
 
-//if((idade >= 18) & (cond= true)){
-  //  console.log("Você é um humano maior de idade")
+//if((idade >= 18) && (cond= true)){
+ //  console.log("Você é um humano maior de idade")
 //} else{
    // console.log("Permetido apenas para humanos maiores de idade")
 //}
@@ -34,9 +34,9 @@
 //let dez = true;
 
 //if((jan= true) || (dez= false)){
-  //  console.log("Você é pode ser de capricórnio")
+  //  console.log("Você pode ser de capricórnio")
 //} else{
-  //  console.log("Não é nem Janeiro e nem dezembro")
+  //  console.log("Você não é nem de Janeiro e nem de Dezembro")
 //}
 
 
